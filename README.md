@@ -60,12 +60,12 @@ pip install -r requirements.txt
 
 ### 4. Lancer l'application
 ```bash
-streamlit run App.py
+streamlit run app.py
 ```
 
 ## 📂 Structure du Projet
 
-- `App.py` : Le fichier principal de l'application Streamlit contenant toute la logique.
+- `app.py` : Le fichier principal de l'application Streamlit contenant toute la logique.
 - `stocks.csv` : Jeu de données exemple (Actions du MASI).
 - `.gitignore` : Fichiers ignorés par Git (venv, pycache, etc.).
 
